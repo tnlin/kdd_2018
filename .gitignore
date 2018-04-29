@@ -1,3 +1,5 @@
+.*
+!/.gitignore
 London_historical_meo_grid.csv
 Beijing_historical_meo_grid.csv
 *.db
