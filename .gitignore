@@ -2,5 +2,7 @@
 !/.gitignore
 bj_meo_grid_historical.csv
 ld_meo_grid_historical.csv
+bj_meo_grid_new.csv
+ld_meo_grid_new.csv
 *.db
 */__pycache__/
