@@ -1,0 +1,25 @@
+Station_ID,longitude,latitude,station_type,SiteName,api_data,need_prediction,historical_data
+BX9,0.184877127,51.46598327,Suburban,Bexley - Slade Green FDMS,1,,1
+BX1,0.184877127,51.46598327,Suburban,Bexley - Slade Green,1,,1
+BL0,-0.125848,51.522287,Urban Background,Camden - Bloomsbury,1,1,1
+CD9,-0.129053205,51.52770662,Roadside,Camden - Euston Road,1,1,1
+CD1,-0.175284,51.544219,Kerbside,Camden - Swiss Cottage,1,1,1
+CT2,-0.104515626,51.51452534,Kerbside,City of London - Farringdon Street,1,,1
+CT3,-0.077765682,51.51384718,Urban Background,City of London - Sir John Cass School,1,,1
+CR8,-0.127523,51.410039,Urban Background,Croydon - Norbury Manor,,,1
+GN0,0.074003,51.490532,Roadside,Greenwich - A206 Burrage Grove,1,1,1
+GR4,0.070766,51.45258,Suburban,Greenwich - Eltham,1,1,1
+GN3,0.095111,51.486957,Roadside,Greenwich - Plumstead High Street,1,1,1
+GR9,0.040725,51.456357,Roadside,Greenwich - Westhorne Avenue,1,1,1
+GB0,0.085606,51.4563,Roadside,Greenwich and Bexley - Falconwood FDMS,,,1
+HR1,-0.298775,51.617327,Urban Background,Harrow - Stanmore,,,1
+HV1,0.205460706,51.52078746,Roadside,Havering - Rainham,1,1,1
+LH0,-0.441627,51.48878,Urban Background,Hillingdon - Harlington,,,1
+KC1,-0.21349214,51.52104675,Urban Background,Kensington and Chelsea - North Ken,,,1
+KF1,-0.21349214,51.52104675,Urban Background,Kensington and Chelsea - North Ken FIDAS,1,1,1
+LW2,-0.039641,51.474954,Roadside,Lewisham - New Cross,1,1,1
+RB7,0.082907475,51.56948433,Urban Background,Redbridge - Ley Street,1,,1
+TD5,-0.345608291,51.42525604,Suburban,Richmond Upon Thames - Bushy Park,1,,1
+ST5,-0.141661525,51.3892869,Industrial,Sutton - Beddington Lane north,1,1,1
+TH4,-0.008418493,51.51504617,Roadside,Tower Hamlets - Blackwall,1,1,1
+MY7,-0.15459,51.52254,Kerbside,Westminster - Marylebone Road FDMS,1,1,1
