@@ -7,7 +7,7 @@ def kdd_2018_submit(filename, description="Baseline model"):
     files={'files': open('../submission/' + filename,'rb')}
     data = {
         "user_id": "tnlin",   #user_id is your username which can be found on the top-right corner on our website 
-        "team_token": "157911850c1d57e0ac45ef110ed2f3a823e1e962300f6f1e8e1abe7c254431dc", #your team_token.
+        "team_token": "95ef429327bb8fe8f190e904155fc1d336a575af8c860ee46bbe53bc6454190b", #your team_token.
         "description": description,  #no more than 40 chars.
         "filename": filename, #your filename
     }
